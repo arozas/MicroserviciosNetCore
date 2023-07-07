@@ -4,7 +4,7 @@ namespace CatalogApi.Controllers
 {
     [ApiController]
     [Route("/")]
-    public class DefaultController : Controller
+    public class DefaultController : ControllerBase
     {
         [HttpGet]
         public string Index()

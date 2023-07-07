@@ -8,6 +8,7 @@
 
   <ItemGroup>
     <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.1" />
+    <PackageReference Include="MediatR" Version="12.1.0" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="7.0.8">
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
@@ -16,7 +17,15 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Catalog.Service.EventHandlers\Catalog.Service.EventHandlers.csproj" />
+    <ProjectReference Include="..\Catalog.Service.Queries\Catalog.Service.Queries.csproj" />
     <ProjectReference Include="..\CatalogPersistanceDatabase\CatalogPersistanceDatabase.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Common.Collection">
+      <HintPath>..\..\Common\Common.Collection\bin\Debug\net6.0\Common.Collection.dll</HintPath>
+    </Reference>
   </ItemGroup>
 
 </Project>
