@@ -1,13 +1,17 @@
-﻿namespace CatalogDomain
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace CatalogDomain.DTOs
 {
-    public class Product
+    internal class ProductDTO
     {
         public int ProductId { get; set; }
         public string Name { get; set; }
         public string Description { get; set; }
         public decimal Price { get; set; }
         public ProductStock Stock { get; set; }
-        public DateTime RegistryDate { get; set; }
-        public bool Active { get; set; }
     }
 }

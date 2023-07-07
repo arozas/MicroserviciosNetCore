@@ -17,6 +17,7 @@ namespace CatalogPersistanceDatabase.Configuration
             modelBuilder.HasKey(x => x.ProductId);
             modelBuilder.Property(x => x.Name).IsRequired().HasMaxLength(100);
             modelBuilder.Property(x => x.Description).IsRequired().HasMaxLength(500);
+            modelBuilder.Property(x => x.Price).IsRequired().HasPrecision(19,4);
         }
     }
 }

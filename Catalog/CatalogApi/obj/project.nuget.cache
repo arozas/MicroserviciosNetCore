@@ -1,14 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "GxLB2uSBI6M5fG/5eU/Qsm/5dsswBgsrFy52swJ2Hg0yfwV3TF0zRmwojBLfiff+6wpgGEZ1DD6ROQPnDgxPYw==",
+  "dgSpecHash": "WJKF8stVQm9IlfDbsRILK9RZP289dtldyecgxqj+XtEILIzCPsLTsiDua4pPzy2tx3dDkkqa+B0HS1/5fMIVpw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Alejandro\\Documents\\MicroserviciosNetCore\\Catalog\\CatalogApi\\CatalogApi.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Alejandro\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\Alejandro\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
     "C:\\Users\\Alejandro\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Alejandro\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
     "C:\\Users\\Alejandro\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Alejandro\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
-    "C:\\Users\\Alejandro\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\Alejandro\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Alejandro\\.nuget\\packages\\microsoft.data.sqlclient\\5.0.2\\microsoft.data.sqlclient.5.0.2.nupkg.sha512",
     "C:\\Users\\Alejandro\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\5.0.1\\microsoft.data.sqlclient.sni.runtime.5.0.1.nupkg.sha512",
     "C:\\Users\\Alejandro\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.8\\microsoft.entityframeworkcore.7.0.8.nupkg.sha512",

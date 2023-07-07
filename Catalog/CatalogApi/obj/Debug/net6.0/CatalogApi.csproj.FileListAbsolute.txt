@@ -121,3 +121,5 @@ C:\Users\Alejandro\Documents\MicroserviciosNetCore\Catalog\CatalogApi\obj\Debug\
 C:\Users\Alejandro\Documents\MicroserviciosNetCore\Catalog\CatalogApi\obj\Debug\net6.0\CatalogApi.pdb
 C:\Users\Alejandro\Documents\MicroserviciosNetCore\Catalog\CatalogApi\obj\Debug\net6.0\CatalogApi.genruntimeconfig.cache
 C:\Users\Alejandro\Documents\MicroserviciosNetCore\Catalog\CatalogApi\obj\Debug\net6.0\ref\CatalogApi.dll
+C:\Users\Alejandro\Documents\MicroserviciosNetCore\Catalog\CatalogApi\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Alejandro\Documents\MicroserviciosNetCore\Catalog\CatalogApi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

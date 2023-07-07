@@ -4,13 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CatalogDomain
+namespace CatalogDomain.DTOs
 {
-    public class ProductStock
+    internal class ProductStockDTO
     {
-        public  int ProductStockId { get; set; }
+        public int ProductStockId { get; set; }
         public int ProductId { get; set; }
         public int Stock { get; set; }
-        public DateTime LastUpdate { get; set; }
     }
 }

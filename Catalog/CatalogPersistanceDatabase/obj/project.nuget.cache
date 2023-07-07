@@ -1,13 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "GlQ/WZrONVSs6b1OohxMSCHaB9ULj4/F8ZJAzKSN8KlBhdBj/4sBZf8Tz3AZLab1w6Mr2oaTsspROhQ15NSgkw==",
+  "dgSpecHash": "goOn+GiWrE2mSEUhCOpf7VCJDwYceD1gcXaY+cjyqOVaOQkfZcK0cmpR8M9Me7Zd26606eoYgFzf8z+KiDSyyA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Alejandro\\Documents\\MicroserviciosNetCore\\Catalog\\CatalogPersistanceDatabase\\CatalogPersistanceDatabase.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Alejandro\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Alejandro\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Alejandro\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
     "C:\\Users\\Alejandro\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
-    "C:\\Users\\Alejandro\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\Alejandro\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Alejandro\\.nuget\\packages\\microsoft.data.sqlclient\\5.0.2\\microsoft.data.sqlclient.5.0.2.nupkg.sha512",
     "C:\\Users\\Alejandro\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\5.0.1\\microsoft.data.sqlclient.sni.runtime.5.0.1.nupkg.sha512",
     "C:\\Users\\Alejandro\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.8\\microsoft.entityframeworkcore.7.0.8.nupkg.sha512",
