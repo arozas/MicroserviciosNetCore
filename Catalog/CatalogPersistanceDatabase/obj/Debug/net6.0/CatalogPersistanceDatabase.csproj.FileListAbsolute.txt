@@ -1,0 +1,15 @@
+C:\Users\Alejandro\Documents\MicroserviciosNetCore\Catalog\CatalogPersistanceDatabase\bin\Debug\net6.0\CatalogPersistanceDatabase.deps.json
+C:\Users\Alejandro\Documents\MicroserviciosNetCore\Catalog\CatalogPersistanceDatabase\bin\Debug\net6.0\CatalogPersistanceDatabase.dll
+C:\Users\Alejandro\Documents\MicroserviciosNetCore\Catalog\CatalogPersistanceDatabase\bin\Debug\net6.0\CatalogPersistanceDatabase.pdb
+C:\Users\Alejandro\Documents\MicroserviciosNetCore\Catalog\CatalogPersistanceDatabase\bin\Debug\net6.0\CatalogDomain.dll
+C:\Users\Alejandro\Documents\MicroserviciosNetCore\Catalog\CatalogPersistanceDatabase\bin\Debug\net6.0\CatalogDomain.pdb
+C:\Users\Alejandro\Documents\MicroserviciosNetCore\Catalog\CatalogPersistanceDatabase\obj\Debug\net6.0\CatalogPersistanceDatabase.csproj.AssemblyReference.cache
+C:\Users\Alejandro\Documents\MicroserviciosNetCore\Catalog\CatalogPersistanceDatabase\obj\Debug\net6.0\CatalogPersistanceDatabase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alejandro\Documents\MicroserviciosNetCore\Catalog\CatalogPersistanceDatabase\obj\Debug\net6.0\CatalogPersistanceDatabase.AssemblyInfoInputs.cache
+C:\Users\Alejandro\Documents\MicroserviciosNetCore\Catalog\CatalogPersistanceDatabase\obj\Debug\net6.0\CatalogPersistanceDatabase.AssemblyInfo.cs
+C:\Users\Alejandro\Documents\MicroserviciosNetCore\Catalog\CatalogPersistanceDatabase\obj\Debug\net6.0\CatalogPersistanceDatabase.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Documents\MicroserviciosNetCore\Catalog\CatalogPersistanceDatabase\obj\Debug\net6.0\CatalogPersistanceDatabase.csproj.CopyComplete
+C:\Users\Alejandro\Documents\MicroserviciosNetCore\Catalog\CatalogPersistanceDatabase\obj\Debug\net6.0\CatalogPersistanceDatabase.dll
+C:\Users\Alejandro\Documents\MicroserviciosNetCore\Catalog\CatalogPersistanceDatabase\obj\Debug\net6.0\refint\CatalogPersistanceDatabase.dll
+C:\Users\Alejandro\Documents\MicroserviciosNetCore\Catalog\CatalogPersistanceDatabase\obj\Debug\net6.0\CatalogPersistanceDatabase.pdb
+C:\Users\Alejandro\Documents\MicroserviciosNetCore\Catalog\CatalogPersistanceDatabase\obj\Debug\net6.0\ref\CatalogPersistanceDatabase.dll

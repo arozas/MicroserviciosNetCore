@@ -1,0 +1,12 @@
+C:\Users\Alejandro\Documents\MicroserviciosNetCore\Catalog\CatalogDomain\bin\Debug\net6.0\CatalogDomain.deps.json
+C:\Users\Alejandro\Documents\MicroserviciosNetCore\Catalog\CatalogDomain\bin\Debug\net6.0\CatalogDomain.dll
+C:\Users\Alejandro\Documents\MicroserviciosNetCore\Catalog\CatalogDomain\bin\Debug\net6.0\CatalogDomain.pdb
+C:\Users\Alejandro\Documents\MicroserviciosNetCore\Catalog\CatalogDomain\obj\Debug\net6.0\CatalogDomain.csproj.AssemblyReference.cache
+C:\Users\Alejandro\Documents\MicroserviciosNetCore\Catalog\CatalogDomain\obj\Debug\net6.0\CatalogDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alejandro\Documents\MicroserviciosNetCore\Catalog\CatalogDomain\obj\Debug\net6.0\CatalogDomain.AssemblyInfoInputs.cache
+C:\Users\Alejandro\Documents\MicroserviciosNetCore\Catalog\CatalogDomain\obj\Debug\net6.0\CatalogDomain.AssemblyInfo.cs
+C:\Users\Alejandro\Documents\MicroserviciosNetCore\Catalog\CatalogDomain\obj\Debug\net6.0\CatalogDomain.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Documents\MicroserviciosNetCore\Catalog\CatalogDomain\obj\Debug\net6.0\CatalogDomain.dll
+C:\Users\Alejandro\Documents\MicroserviciosNetCore\Catalog\CatalogDomain\obj\Debug\net6.0\refint\CatalogDomain.dll
+C:\Users\Alejandro\Documents\MicroserviciosNetCore\Catalog\CatalogDomain\obj\Debug\net6.0\CatalogDomain.pdb
+C:\Users\Alejandro\Documents\MicroserviciosNetCore\Catalog\CatalogDomain\obj\Debug\net6.0\ref\CatalogDomain.dll

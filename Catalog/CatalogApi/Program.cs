@@ -1,3 +1,6 @@
+using CatalogPersistanceDatabase;
+using Microsoft.EntityFrameworkCore;
+
 namespace CatalogApi
 {
     public class Program
@@ -13,6 +16,10 @@ namespace CatalogApi
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
 
+            builder.Services.AddDbContext<ApplicationDbContext>(options =>
+            {
+                options.UseSqlServer(builder.Configuration.GetConnectionString("CatalogApi"));
+            });
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.
