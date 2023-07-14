@@ -1,11 +1,68 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {}
+    "net7.0": {
+      "Catalog.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Catalog.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Catalog.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Catalog.Application.dll": {}
+        }
+      },
+      "Catalog.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Catalog.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Catalog.Core.dll": {}
+        }
+      },
+      "Catalog.Infraestructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Catalog.Application": "1.0.0",
+          "Catalog.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Catalog.Infraestructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Catalog.Infraestructure.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Catalog.Application/1.0.0": {
+      "type": "project",
+      "path": "../Catalog.Application/Catalog.Application.csproj",
+      "msbuildProject": "../Catalog.Application/Catalog.Application.csproj"
+    },
+    "Catalog.Core/1.0.0": {
+      "type": "project",
+      "path": "../Catalog.Core/Catalog.Core.csproj",
+      "msbuildProject": "../Catalog.Core/Catalog.Core.csproj"
+    },
+    "Catalog.Infraestructure/1.0.0": {
+      "type": "project",
+      "path": "../Catalog.Infraestructure/Catalog.Infraestructure.csproj",
+      "msbuildProject": "../Catalog.Infraestructure/Catalog.Infraestructure.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net7.0": []
+    "net7.0": [
+      "Catalog.Application >= 1.0.0",
+      "Catalog.Infraestructure >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Alejandro\\.nuget\\packages\\": {},
@@ -39,7 +96,14 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Alejandro\\Documents\\MicroserviciosNetCore\\Catalog\\Catalog.Application\\Catalog.Application.csproj": {
+              "projectPath": "C:\\Users\\Alejandro\\Documents\\MicroserviciosNetCore\\Catalog\\Catalog.Application\\Catalog.Application.csproj"
+            },
+            "C:\\Users\\Alejandro\\Documents\\MicroserviciosNetCore\\Catalog\\Catalog.Infraestructure\\Catalog.Infraestructure.csproj": {
+              "projectPath": "C:\\Users\\Alejandro\\Documents\\MicroserviciosNetCore\\Catalog\\Catalog.Infraestructure\\Catalog.Infraestructure.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

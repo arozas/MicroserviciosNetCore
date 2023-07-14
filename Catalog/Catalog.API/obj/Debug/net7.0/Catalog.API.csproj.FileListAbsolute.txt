@@ -24,3 +24,10 @@ C:\Users\Alejandro\Documents\MicroserviciosNetCore\Catalog\Catalog.API\obj\Debug
 C:\Users\Alejandro\Documents\MicroserviciosNetCore\Catalog\Catalog.API\obj\Debug\net7.0\Catalog.API.pdb
 C:\Users\Alejandro\Documents\MicroserviciosNetCore\Catalog\Catalog.API\obj\Debug\net7.0\Catalog.API.genruntimeconfig.cache
 C:\Users\Alejandro\Documents\MicroserviciosNetCore\Catalog\Catalog.API\obj\Debug\net7.0\ref\Catalog.API.dll
+C:\Users\Alejandro\Documents\MicroserviciosNetCore\Catalog\Catalog.API\bin\Debug\net7.0\Catalog.Application.dll
+C:\Users\Alejandro\Documents\MicroserviciosNetCore\Catalog\Catalog.API\bin\Debug\net7.0\Catalog.Core.dll
+C:\Users\Alejandro\Documents\MicroserviciosNetCore\Catalog\Catalog.API\bin\Debug\net7.0\Catalog.Infraestructure.dll
+C:\Users\Alejandro\Documents\MicroserviciosNetCore\Catalog\Catalog.API\bin\Debug\net7.0\Catalog.Application.pdb
+C:\Users\Alejandro\Documents\MicroserviciosNetCore\Catalog\Catalog.API\bin\Debug\net7.0\Catalog.Infraestructure.pdb
+C:\Users\Alejandro\Documents\MicroserviciosNetCore\Catalog\Catalog.API\bin\Debug\net7.0\Catalog.Core.pdb
+C:\Users\Alejandro\Documents\MicroserviciosNetCore\Catalog\Catalog.API\obj\Debug\net7.0\Catalog.API.csproj.CopyComplete

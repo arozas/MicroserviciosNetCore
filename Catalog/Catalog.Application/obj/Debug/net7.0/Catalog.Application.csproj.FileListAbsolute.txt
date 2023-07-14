@@ -10,3 +10,6 @@ C:\Users\Alejandro\Documents\MicroserviciosNetCore\Catalog\Catalog.Application\o
 C:\Users\Alejandro\Documents\MicroserviciosNetCore\Catalog\Catalog.Application\obj\Debug\net7.0\refint\Catalog.Application.dll
 C:\Users\Alejandro\Documents\MicroserviciosNetCore\Catalog\Catalog.Application\obj\Debug\net7.0\Catalog.Application.pdb
 C:\Users\Alejandro\Documents\MicroserviciosNetCore\Catalog\Catalog.Application\obj\Debug\net7.0\ref\Catalog.Application.dll
+C:\Users\Alejandro\Documents\MicroserviciosNetCore\Catalog\Catalog.Application\bin\Debug\net7.0\Catalog.Core.dll
+C:\Users\Alejandro\Documents\MicroserviciosNetCore\Catalog\Catalog.Application\bin\Debug\net7.0\Catalog.Core.pdb
+C:\Users\Alejandro\Documents\MicroserviciosNetCore\Catalog\Catalog.Application\obj\Debug\net7.0\Catalog.Application.csproj.CopyComplete

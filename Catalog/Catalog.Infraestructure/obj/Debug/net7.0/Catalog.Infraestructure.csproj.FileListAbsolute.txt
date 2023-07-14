@@ -10,3 +10,8 @@ C:\Users\Alejandro\Documents\MicroserviciosNetCore\Catalog\Catalog.Infraestructu
 C:\Users\Alejandro\Documents\MicroserviciosNetCore\Catalog\Catalog.Infraestructure\obj\Debug\net7.0\refint\Catalog.Infraestructure.dll
 C:\Users\Alejandro\Documents\MicroserviciosNetCore\Catalog\Catalog.Infraestructure\obj\Debug\net7.0\Catalog.Infraestructure.pdb
 C:\Users\Alejandro\Documents\MicroserviciosNetCore\Catalog\Catalog.Infraestructure\obj\Debug\net7.0\ref\Catalog.Infraestructure.dll
+C:\Users\Alejandro\Documents\MicroserviciosNetCore\Catalog\Catalog.Infraestructure\bin\Debug\net7.0\Catalog.Application.dll
+C:\Users\Alejandro\Documents\MicroserviciosNetCore\Catalog\Catalog.Infraestructure\bin\Debug\net7.0\Catalog.Core.dll
+C:\Users\Alejandro\Documents\MicroserviciosNetCore\Catalog\Catalog.Infraestructure\bin\Debug\net7.0\Catalog.Application.pdb
+C:\Users\Alejandro\Documents\MicroserviciosNetCore\Catalog\Catalog.Infraestructure\bin\Debug\net7.0\Catalog.Core.pdb
+C:\Users\Alejandro\Documents\MicroserviciosNetCore\Catalog\Catalog.Infraestructure\obj\Debug\net7.0\Catalog.Infraestructure.csproj.CopyComplete
