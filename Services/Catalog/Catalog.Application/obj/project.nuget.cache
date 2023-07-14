@@ -1,13 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "zruqSJmNuMG3nCQT3UisUDRcJyzPP5Cg5jw23m7OZSOqfLM6csrXq1h4qe2Kl/F9ePpxbXIvBmI7UYeSOGz13w==",
+  "dgSpecHash": "tnLH6siYYEoMwETEGomiD5yHKqElvpoq/NVuOH0uZX96NINIR89+JHLnfhIVAxjTlLrSdPrbMPPKP78BF2xnbw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Alejandro\\Documents\\MicroserviciosNetCore\\Services\\Catalog\\Catalog.Application\\Catalog.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alejandro\\.nuget\\packages\\aspnetcore.healthchecks.mongodb\\7.0.0-rc2.6\\aspnetcore.healthchecks.mongodb.7.0.0-rc2.6.nupkg.sha512",
+    "C:\\Users\\Alejandro\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Alejandro\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\Alejandro\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",
     "C:\\Users\\Alejandro\\.nuget\\packages\\dnsclient\\1.6.1\\dnsclient.1.6.1.nupkg.sha512",
+    "C:\\Users\\Alejandro\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
+    "C:\\Users\\Alejandro\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\Alejandro\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Alejandro\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\Alejandro\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\Alejandro\\.nuget\\packages\\microsoft.extensions.diagnostics.healthchecks\\7.0.1\\microsoft.extensions.diagnostics.healthchecks.7.0.1.nupkg.sha512",
