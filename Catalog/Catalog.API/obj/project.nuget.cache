@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "gIXdUXJYao2clBP5w+/7xpTUPv6UAvRCiB9UYQcedTkXX+fqsAllvoQyooCK6DQcQMwVEhlLVo9Vfd3H764RcQ==",
+  "dgSpecHash": "QZUTp1l1BlYixUo6v3S55MrRaRrfv3p5Wn+2D7LYuQNwDCOd3/XcOxXl7E0iJP5hKZmF+7+yPbiUyuCGvi/YAQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Alejandro\\Documents\\MicroserviciosNetCore\\Catalog\\Catalog.API\\Catalog.API.csproj",
   "expectedPackageFiles": [
@@ -9,6 +9,7 @@
     "C:\\Users\\Alejandro\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",
     "C:\\Users\\Alejandro\\.nuget\\packages\\dnsclient\\1.6.1\\dnsclient.1.6.1.nupkg.sha512",
     "C:\\Users\\Alejandro\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Alejandro\\.nuget\\packages\\microsoft.extensions.configuration.binder\\7.0.4\\microsoft.extensions.configuration.binder.7.0.4.nupkg.sha512",
     "C:\\Users\\Alejandro\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\Alejandro\\.nuget\\packages\\microsoft.extensions.diagnostics.healthchecks\\7.0.1\\microsoft.extensions.diagnostics.healthchecks.7.0.1.nupkg.sha512",
     "C:\\Users\\Alejandro\\.nuget\\packages\\microsoft.extensions.diagnostics.healthchecks.abstractions\\7.0.1\\microsoft.extensions.diagnostics.healthchecks.abstractions.7.0.1.nupkg.sha512",
