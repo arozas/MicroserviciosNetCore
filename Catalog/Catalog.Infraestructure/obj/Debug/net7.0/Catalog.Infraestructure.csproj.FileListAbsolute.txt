@@ -15,3 +15,6 @@ C:\Users\Alejandro\Documents\MicroserviciosNetCore\Catalog\Catalog.Infraestructu
 C:\Users\Alejandro\Documents\MicroserviciosNetCore\Catalog\Catalog.Infraestructure\bin\Debug\net7.0\Catalog.Application.pdb
 C:\Users\Alejandro\Documents\MicroserviciosNetCore\Catalog\Catalog.Infraestructure\bin\Debug\net7.0\Catalog.Core.pdb
 C:\Users\Alejandro\Documents\MicroserviciosNetCore\Catalog\Catalog.Infraestructure\obj\Debug\net7.0\Catalog.Infraestructure.csproj.CopyComplete
+C:\Users\Alejandro\Documents\MicroserviciosNetCore\Catalog\Catalog.Infraestructure\bin\Debug\net7.0\Data\SeedData\brands.json
+C:\Users\Alejandro\Documents\MicroserviciosNetCore\Catalog\Catalog.Infraestructure\bin\Debug\net7.0\Data\SeedData\products.json
+C:\Users\Alejandro\Documents\MicroserviciosNetCore\Catalog\Catalog.Infraestructure\bin\Debug\net7.0\Data\SeedData\types.json
