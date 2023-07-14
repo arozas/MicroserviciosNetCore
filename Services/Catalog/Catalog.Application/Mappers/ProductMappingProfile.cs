@@ -4,9 +4,9 @@ using Catalog.Core.Entities;
 
 namespace Catalog.Application.Mappers;
 
-public class ProductMappingProfiles:Profile
+public class ProductMappingProfile:Profile
 {
-    public ProductMappingProfiles()
+    public ProductMappingProfile()
     {
         CreateMap<ProductBrand, BrandResponse>().ReverseMap();
     }
