@@ -30,7 +30,6 @@ public class Startup
         applicationBuilder.UseEndpoints(endpoints =>
         {
             endpoints.MapControllers();
-            endpoints.MapHealthChecks("/health", new HealthCheckOptions());
         });
     }
     
