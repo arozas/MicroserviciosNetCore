@@ -3,7 +3,7 @@ using MediatR;
 
 namespace Catalog.Application.Queries;
 
-public class GetAllProductQuery : IRequest<IList<ProductResponse>>
+public class GetAllTypesQuery : IRequest<IList<TypeResponse>>, IRequest
 {
     
 }
