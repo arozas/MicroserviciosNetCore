@@ -107,3 +107,16 @@ C:\Users\Alejandro\Documents\MicroserviciosNetCore\Services\Catalog\Catalog.API\
 C:\Users\Alejandro\Documents\MicroserviciosNetCore\Services\Catalog\Catalog.API\bin\Debug\net7.0\AutoMapper.dll
 C:\Users\Alejandro\Documents\MicroserviciosNetCore\Services\Catalog\Catalog.API\bin\Debug\net7.0\MediatR.dll
 C:\Users\Alejandro\Documents\MicroserviciosNetCore\Services\Catalog\Catalog.API\bin\Debug\net7.0\MediatR.Contracts.dll
+C:\Users\Alejandro\Documents\MicroserviciosNetCore\Services\Catalog\Catalog.API\bin\Debug\net7.0\HealthChecks.UI.Client.dll
+C:\Users\Alejandro\Documents\MicroserviciosNetCore\Services\Catalog\Catalog.API\bin\Debug\net7.0\HealthChecks.UI.Core.dll
+C:\Users\Alejandro\Documents\MicroserviciosNetCore\Services\Catalog\Catalog.API\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Alejandro\Documents\MicroserviciosNetCore\Services\Catalog\Catalog.API\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+C:\Users\Alejandro\Documents\MicroserviciosNetCore\Services\Catalog\Catalog.API\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer.dll
+C:\Users\Alejandro\Documents\MicroserviciosNetCore\Services\Catalog\Catalog.API\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Alejandro\Documents\MicroserviciosNetCore\Services\Catalog\Catalog.API\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Alejandro\Documents\MicroserviciosNetCore\Services\Catalog\Catalog.API\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Alejandro\Documents\MicroserviciosNetCore\Services\Catalog\Catalog.API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Alejandro\Documents\MicroserviciosNetCore\Services\Catalog\Catalog.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Alejandro\Documents\MicroserviciosNetCore\Services\Catalog\Catalog.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Alejandro\Documents\MicroserviciosNetCore\Services\Catalog\Catalog.API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Alejandro\Documents\MicroserviciosNetCore\Services\Catalog\Catalog.API\obj\Debug\net7.0\Catalog.API.MvcApplicationPartsAssemblyInfo.cs
