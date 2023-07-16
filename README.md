@@ -1,2 +1,2 @@
 # MicroserviciosNetCore
-Modelo básico de microservicios.
+Modelo básico de microservicios en desarrollo.
